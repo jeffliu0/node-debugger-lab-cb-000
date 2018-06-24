@@ -1,5 +1,6 @@
 module.exports = function account() {
   var output = {}
+  debugger
   var customerAccount = {
     balance: 0,
     name: 'Azat Mardan',
